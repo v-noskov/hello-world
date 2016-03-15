@@ -1,2 +1,8 @@
 # hello-world
-my first step om github
+Hi people,
+
+This is my first step on github.
+
+Sincerelly yours,
+
+Vlad N.
